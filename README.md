@@ -5,10 +5,8 @@ Este proyecto proporciona una aplicación simple para gestionar usuarios utiliza
 | Indice | Titulo  |
 |--|--|
 | 1 | Descripción |
-| 2 | Instalación y Uso |
-| 3 | Funcionalidades |
-| 4 | Estructura del Archivo |
-| 5 | Notas Importantes |
+| 2 | Funcionalidades |
+| 3 | Notas Importantes |
 
 ### Instalación
 Deberas ejecutar el comando git clone para copiar el repositorio
@@ -19,8 +17,7 @@ sudo apt install app
 ```
 
 ``` Código realizado en:
-- html
-- css
+-Python
 ```
 ## Descripción
 Este proyecto utiliza un archivo JSON para almacenar la información de los usuarios, incluyendo ID, nombre, apellido y número de celular. La aplicación permite realizar las siguientes acciones:
