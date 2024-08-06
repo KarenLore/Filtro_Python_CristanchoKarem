@@ -18,7 +18,8 @@ sudo apt install app
 
 ```
 Código realizado en:
--Python
+- Python
+- Json
 ```
 ## Descripción
 Este proyecto utiliza un archivo JSON para almacenar la información de los usuarios, incluyendo ID, nombre, apellido y número de celular. La aplicación permite realizar las siguientes acciones:
