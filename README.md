@@ -37,17 +37,18 @@ Eliminar Usuario: Permite eliminar un usuario específico utilizando su ID.
 Hecho por ***Karen Lorena Cristancho Caceres***
 
 > Notas Importantes
-[!NOTE]
-Asegúrate de que el archivo info.json existe en el directorio raíz del proyecto para que el script funcione correctamente.
 
-[!TIP]
-Mantén el archivo JSON bien estructurado y asegúrate de que todos los usuarios tienen un ID único para evitar problemas al modificar o eliminar usuarios.
+> [!NOTE]
+> Asegúrate de que el archivo info.json existe en el directorio raíz del proyecto para que el script funcione correctamente.
 
-[!IMPORTANT]
-Verifica los datos ingresados para evitar errores en el archivo JSON. Los números de celular deben ser enteros.
+> [!TIP]
+> Mantén el archivo JSON bien estructurado y asegúrate de que todos los usuarios tienen un ID único para evitar problemas al modificar o eliminar usuarios.
 
-[!WARNING]
-El archivo info.json puede sobrescribirse si hay errores en el script, por lo que es recomendable hacer copias de seguridad periódicas.
+> [!IMPORTANT]
+> Verifica los datos ingresados para evitar errores en el archivo JSON. Los números de celular deben ser enteros.
 
-[!CAUTION]
-Asegúrate de manejar correctamente los IDs para evitar confusiones entre usuarios y para garantizar que las modificaciones y eliminaciones se realicen en el usuario correcto.
+> [!WARNING]
+> El archivo info.json puede sobrescribirse si hay errores en el script, por lo que es recomendable hacer copias de seguridad periódicas.
+
+> [!CAUTION]
+> Asegúrate de manejar correctamente los IDs para evitar confusiones entre usuarios y para garantizar que las modificaciones y eliminaciones se realicen en el usuario correcto.
